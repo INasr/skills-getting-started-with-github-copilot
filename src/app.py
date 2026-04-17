@@ -77,6 +77,45 @@ activities = {
         "schedule": "Wednesdays, 4:00 PM - 5:00 PM",
         "max_participants": 14,
         "participants": ["oliver@mergington.edu", "zoe@mergington.edu"]
+    },
+    # Sports related activities
+    "Baseball Team": {
+        "description": "Join the school baseball team and compete in local leagues",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 16,
+        "participants": ["ethan@mergington.edu", "sarah@mergington.edu"]
+    },
+    "Swimming Club": {
+        "description": "Practice swimming techniques and compete in swim meets",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["mason@mergington.edu", "isabella@mergington.edu"]
+    },
+    # Artistic activities
+    "Music Band": {
+        "description": "Learn to play instruments and perform at school events",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 12,
+        "participants": ["jacob@mergington.edu", "mia@mergington.edu"]
+    },
+    "Photography Club": {
+        "description": "Explore photography and digital image editing",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": ["logan@mergington.edu", "charlotte@mergington.edu"]
+    },
+    # Intellectual activities
+    "Science Olympiad": {
+        "description": "Compete in science competitions and conduct experiments",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": ["benjamin@mergington.edu", "amelia@mergington.edu"]
+    },
+    "Robotics Club": {
+        "description": "Build and program robots for competitions",
+        "schedule": "Mondays, 3:30 PM - 5:30 PM",
+        "max_participants": 12,
+        "participants": ["william@mergington.edu", "harper@mergington.edu"]
     }
 }
 
